@@ -27,5 +27,6 @@
     "normalize.css": "8.0.1",
     "null-loader": "4.0.1",
     "scar": "2.3.0"
-  }
+  },
+  "dependencies": {}
 }
