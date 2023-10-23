@@ -8,15 +8,15 @@
     "empty": "kosong",
     "files": "berkas",
     "filter": "saring",
-    "folders": "pelipat",
+    "folders": "folder",
     "grid": "jaring",
     "icons": "ikon",
     "info": "Informasi",
     "language": "Bahasa",
-    "lastModified": "Di modifikasi",
+    "lastModified": "Terakhir diubah",
     "name": "Nama",
-    "noMatch": "tidak cocok",
-    "pagination": "Penomoran halaman",
+    "noMatch": "tidak ada kecocokan",
+    "pagination": "Paginasi",
     "pagInputBtn": "PERGI",
     "pagInputTxt": "halaman",
     "parentDirectory": "Direktori induk",
@@ -24,5 +24,5 @@
     "search": "cari",
     "size": "Ukuran",
     "tree": "Pohon",
-    "view": "Tampil"
+    "view": "Tampilan"
 }
